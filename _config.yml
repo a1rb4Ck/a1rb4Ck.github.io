@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "a1rb4Ck's place"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Pierre Nagorny"
+description              : "Pierre's personnal page : current works, futures projets, thoughts."
+url                      : "https://a1rb4Ck.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "a1rb4Ck/a1rb4Ck.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -51,8 +51,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : false # true, false (default)
 
 # SEO Related
 google_site_verification :
@@ -71,49 +71,51 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Person"
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://www.twitter.com/aIrb4ck/"
+    - "https://www.linkedin.com/in/pierrenagorny/"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          :
+    tracking_id          : "UA-112772822-1"
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Pierre Nagorny"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "PhD student on autonomous industrial systems control."
+  location         : "Annecy, Alps"
   email            :
-  uri              :
+  uri              : "https://a1rb4Ck.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
-  codepen          :
+  codepen          : "a1rb4Ck"
   dribbble         :
-  flickr           :
+  flickr           : "airback"
   facebook         :
   foursquare       :
-  github           :
+  github           : "a1rb4Ck"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "airb4ck"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "pierrenagorny"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "a1rb4ck"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://www.twitter.com/aIrb4ck"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://www.youtube.com/user/pierrenagorny/"
 
 
 # Reading Files
@@ -183,7 +185,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
