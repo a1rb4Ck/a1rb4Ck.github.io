@@ -253,3 +253,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+#Theme
+remote_theme: "mmistakes/minimal-mistakes"
+
