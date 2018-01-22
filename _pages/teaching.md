@@ -1,0 +1,23 @@
+---
+title: Teaching
+layout: single
+permalink: teaching/
+---
+
+### Teacher Assistant in engineering school
+<a href="http://www.polytech.univ-smb.fr/en.html">Polytech Annecy-Chambéry</a>
+
+- Static mechanics, spring 2017 & 2018
+  Engineering problems solving: Multiple bodies physics and mechanisms design, only with constants forces (thus, "static").
+  Practical works with the help of <a href="https://www.enventive.com/en/">Enventive</a> & <a href="https://www.ansys.com">ANSYS</a> softwares.
+- Dynamic mechanics, spring 2017 & 2018
+  Following the previous courses, general mechanics problems solving with complex 3D motions.
+  Practical works with the Solid Dynamics software (purchased by AutoDesk and integrated into Inventor).
+
+### Science in elementary school
+- Robot programming, winter 2018
+  Programming <a href="http://thymio.org/">Thymio</a> robots with <a href="https://developers.google.com/blockly/">Blockly</a>. Students learned really fast. We also debate about robotics and AI, raised ethical concerns..
+
+### Teaching interests
+- Robotic design
+- Machine learning, reinforcement learning, software 2.0

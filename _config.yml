@@ -90,7 +90,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "PhD student on autonomous industrial systems control."
   location         : "Annecy, Alps"
-  email            :
+  email            : first dot family
   uri              : "https://a1rb4Ck.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -111,11 +111,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://www.twitter.com/aIrb4ck"
+  twitter          : "aIrb4ck"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://www.youtube.com/user/pierrenagorny/"
+  youtube          : "https://www.youtube.com/user/pierrenagorny/"
 
 
 # Reading Files
@@ -183,7 +183,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
