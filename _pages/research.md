@@ -6,32 +6,36 @@ permalink: research/
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <div style="float: left; ">
   <p>
-    <i class="ai ai-open-access-square ai-3x"> </i>
+    <i class="ai ai-open-access-square ai-1x"> </i>
     <a href="https://hal.archives-ouvertes.fr/search/index/q/%2A/authIdHal_s/pierre-nagorny/"> HAL (french open archive)</a>
-    <i class="ai ai-arxiv-square ai-3x"> </i>
+  </p>
+  <p>
+    <i class="ai ai-arxiv-square ai-1x"> </i>
     <a href="https://arxiv.org/find/cs/1/au:+Nagorny_P/0/1/0/all/0/1"> arXiv</a> (use <a href="http://www.arxiv-sanity.com">arXiv-sanity</a> & <a href="https://www.arxiv-vanity.com">arxiv-vanity</a> !)
+  </p>
+  <p>
     <i class="fa fa-fw fa-university"> </i>
     <a href="https://scholar.google.fr/citations?user=Hh38w7MAAAAJ&hl=en"> Google scholar</a>
-    <i class="ai ai-researchgate-square ai-3x "> </i>
+  </p>
+  <p>
+    <i class="ai ai-researchgate-square ai-1x "> </i>
     <a href="https://www.researchgate.net/profile/Pierre_Nagorny"> ResearchGate</a>
   </p>
-</p>
 </div>
 
 
 ### PhD thesis (due fall 2019)
 - Development of a methodology for dimensional control of injected parts.
-  Directors: Eric Pairel, Maurice Pillet
-  Grenobles Alpes University, SISEO, USMB SYMME laboratory
-  [\[theses.fr\]](http://www.theses.fr/s162132)
-  The SAPRISTI project aims to develop a self-correcting injection molding system for the production of plastic parts based on product inspection. This system will work autonomously in order to stabilize the process quality correcting aberrations.
-  This project seeks the optimal control of the quality of parts produced in injection molding.
-  My research are about inline quality analysis, final products quality prediction and optimal machine control.
-  We introduced volumetric scanning and multi-spectral imagery in the short industrial production cycle time.
+  Directors: Eric Pairel, Maurice Pillet  
+  Grenobles Alpes University, SISEO, USMB SYMME laboratory  
+  [\[theses.fr\]](http://www.theses.fr/s162132) The SAPRISTI project aims to develop a self-correcting injection molding system for the production of plastic parts based on product inspection. This system will work autonomously in order to stabilize the process quality correcting aberrations.  
+  This project seeks the optimal control of the quality of parts produced in injection molding.  
+  My research are about inline quality analysis, final products quality prediction and optimal machine control.  
+  We introduced volumetric scanning and multi-spectral imagery in the short industrial production cycle time.  
 
   The main industrial constraint is the small dataset available for model construction, thus Generative Adversarial Networks show promising results for system modeling.
-  Furthermore, we can probably do better than Model Predictive Control, with recent deep Reinforcement Learning methods.
-  Thus our main problem is to design the intelligence of the machine, with solution for security and ethical concerns.
+  Furthermore, we can probably do better than Model Predictive Control, with recent deep Reinforcement Learning methods.  
+  Thus our main problem is to design the intelligence of the machine, with solution for security and ethical concerns.  
 
 
 ### Posters
