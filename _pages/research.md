@@ -11,9 +11,9 @@ permalink: research/
     <a href="https://hal.archives-ouvertes.fr/search/index/q/%2A/authIdHal_s/pierre-nagorny/"> HAL (french open archive)</a>
     <br>
     <i class="ai ai-arxiv-square ai-1x"> </i>
-    <a href="https://arxiv.org/find/cs/1/au:+Nagorny_P/0/1/0/all/0/1"> arXiv</a> (use <a href="http://www.arxiv-sanity.com">arXiv-sanity</a> & <a href="https://www.arxiv-vanity.com">arxiv-vanity</a> !)
+    <a href="https://arxiv.org/find/cs/1/au:+Nagorny_P/0/1/0/all/0/1"> arXiv</a> (use <a href="http://www.arxiv-sanity.com">arXiv-sanity</a> & <a href="https://www.arxiv-vanity.com">arxiv-vanity</a>!)
     <br>
-    <i class="fa fa-fw fa-university"> </i>
+    <i class="ai ai-google-scholar-square ai-1x"> </i>
     <a href="https://scholar.google.fr/citations?user=Hh38w7MAAAAJ&hl=en"> Google scholar</a>
     <br>
     <i class="ai ai-researchgate-square ai-1x "> </i>
@@ -23,9 +23,9 @@ permalink: research/
 
 
 ### PhD thesis (due fall 2019)
-- Development of a methodology for dimensional control of injected parts.
+- Development of a methodology for dimensional control of injected parts.  
   Directors: Eric Pairel, Maurice Pillet [\[theses.fr\]](http://www.theses.fr/s162132)  
-  Grenobles Alpes University, SISEO, USMB <a href="http://int.polytech.univ-smb.fr/index.php?id=symme_accueil&L=1">SYMME laboratory</a>  
+  Grenobles Alpes University,  <a href="http://int.polytech.univ-smb.fr/index.php?id=symme_accueil&L=1">SYMME laboratory</a>  
   The SAPRISTI project aims to develop a self-correcting injection molding system for the production of plastic parts based on product inspection. This system will work autonomously in order to stabilize the process quality correcting aberrations.  
   This project seeks the optimal control of the quality of parts produced in injection molding.  
   My research are about inline quality analysis, final products quality prediction and optimal machine control.  

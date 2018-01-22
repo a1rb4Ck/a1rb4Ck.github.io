@@ -3,10 +3,11 @@ title: About
 layout: single
 author_profile: true
 permalink: about/
-image:
-  feature: banner_1.jpg
-  credit: Pierre Nagorny
-  creditlink: https://a1rb4Ck.github.io/
+header:
+  image:
+    feature: banner_1.jpg
+    credit: Pierre Nagorny
+    creditlink: https://a1rb4Ck.github.io/
 ---
 
 ### About this website
