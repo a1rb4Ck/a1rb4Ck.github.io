@@ -4,10 +4,8 @@ layout: single
 author_profile: true
 permalink: about/
 header:
-  image:
-    feature: banner_1.jpg
-    credit: Pierre Nagorny
-    creditlink: https://a1rb4Ck.github.io/
+  image: /assets/images/banner_1.jpg
+  caption: "Photo: Pierre in Sweden"
 ---
 
 ### About this website
