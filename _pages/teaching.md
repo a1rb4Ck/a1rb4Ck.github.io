@@ -1,11 +1,12 @@
 ---
 title: Teaching
 layout: single
+author_profile: true
 permalink: teaching/
 ---
 
-### Teacher Assistant in engineering school
-<a href="http://www.polytech.univ-smb.fr/en.html">Polytech Annecy-Chambéry</a>
+### Teacher Assistant
+ <a href="http://www.polytech.univ-smb.fr/en.html">Polytech Annecy-Chambéry</a> the <a href="https://www.univ-smb.fr">Savoie Mont Blanc University</a> engineering school.
 - Static mechanics, spring 2017 & 2018  
   Engineering problems solving: Multiple bodies physics and mechanisms design, only with constants forces (thus, "static").  
   Practical works with the help of <a href="https://www.enventive.com/en/">Enventive</a> & <a href="https://www.ansys.com">ANSYS</a> softwares.  
