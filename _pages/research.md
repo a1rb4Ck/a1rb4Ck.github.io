@@ -35,12 +35,7 @@ permalink: research/
   Furthermore, we can probably do better than Model Predictive Control, with recent deep Reinforcement Learning methods.  
   Thus our main problem is to design the intelligence of the machine, with solution for security and ethical concerns.  
 
-
-### Posters
-- Doctoral students day, Nov. 2017  
-  Presentatation of our first method for the measurement and analysis of hot plastic parts within the industrial production cycle time.
-
-### Conferences & papers
+### Conferences
 - <a href="http://icit2018.org/en">ICIT 2018</a>, Lyon, Feb. 2018  
   Discussion on encouraging results of GANs to predict the quality of molded parts.
 
@@ -53,6 +48,13 @@ permalink: research/
 - <a href="https://aip-primeca2017.sciencesconf.org">Seminar AIP Primeca</a>, La Plagne, Apr. 2017  
   First experimental results and research perspectives.
 
+### Papers
+<iframe width="600" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Pierre+Nagorny&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_audience=oui&CB_vignette=oui&CB_video=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" FRAMEBORDER="0" scrolling="auto" ></iframe>
+
+### Posters
+- Doctoral students day, Nov. 2017  
+  Presentatation of our first method for the measurement and analysis of hot plastic parts within the industrial production cycle time.
+
 ### Related research topics
 - Reinforcement learning
 - Deep networks confidence, robustness & safety
@@ -60,4 +62,4 @@ permalink: research/
 - Modern UX for Big Data
 - Innovative robotic design: merge mechatronics & AI
 
-<iframe width="505" height="1000" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Pierre+Nagorny&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_audience=oui&CB_vignette=oui&CB_video=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" FRAMEBORDER="0" scrolling="auto" ></iframe>
+
