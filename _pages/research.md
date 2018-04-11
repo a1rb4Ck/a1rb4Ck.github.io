@@ -50,7 +50,7 @@ permalink: research/
 - <a href="http://cigi2017.utc.fr">CIGI 2017</a>, UTC, Compiègnes, May 2017  
   French review of state of the art methods for injection molding machine control.
 
-- <a href="https://aip-primeca2017.sciencesconf.org"</a>, Seminar AIP Primeca, La Plagne, Apr. 2017  
+- <a href="https://aip-primeca2017.sciencesconf.org">Seminar AIP Primeca</a>, La Plagne, Apr. 2017  
   First experimental results and research perspectives.
 
 ### Related research topics
@@ -59,3 +59,5 @@ permalink: research/
 - General AI
 - Modern UX for Big Data
 - Innovative robotic design: merge mechatronics & AI
+
+<iframe width="505" height="1000" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Pierre+Nagorny&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_audience=oui&CB_vignette=oui&CB_video=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" FRAMEBORDER="0" scrolling="auto" ></iframe>
