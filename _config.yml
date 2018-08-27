@@ -5,6 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -33,7 +40,7 @@ comments:
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
-  commitMessage          : # "New comment."
+  commitMessage          : # "New comment by {fields.name}"
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true
@@ -82,6 +89,7 @@ analytics:
   provider               : "google-universal"
   google:
     tracking_id          : "UA-112772822-1"
+    anonymize_ip         : true
 
 
 # Site Author
@@ -90,7 +98,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "PhD student on autonomous industrial systems control."
   location         : "Annecy, Alps"
-  email            : first dot family
+  email            : first dot family at gmail.com
   uri              : "https://a1rb4Ck.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
