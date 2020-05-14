@@ -10,7 +10,7 @@ header:
 Every year, my doctoral school have a PhD students day, were self-made videos presenting their lab are shared.
 This automn, I filmed, directed, edited the 2018 video presentation of the lab.  
 
-It's on YouTube.
+It's on [YouTube](https://www.youtube.com/watch?v=D8mj7Rv1wdQ).
 {% include video id="D8mj7Rv1wdQ" provider="youtube" %}
 
 I tried to mimic the David Fincher director style - in Gone Girl, 2014.

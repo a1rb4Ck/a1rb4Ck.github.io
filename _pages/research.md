@@ -129,7 +129,7 @@ IEEE International Conference on Computational Intelligence and Virtual Environm
 
 ### Movie
 - [Presentation of the SYMME laboratory](https://www.youtube.com/watch?v=D8mj7Rv1wdQ)  
-  Doctoral school students day, November 2018  
+  Doctoral school students day, November 2018, [blog post](/Directing-the-presentation-of-the-SYMME-lab)  
 
 ---
 
