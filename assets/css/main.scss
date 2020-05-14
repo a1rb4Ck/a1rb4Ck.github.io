@@ -29,7 +29,8 @@ html {
 }
 
 // Dark theme
-@media screen, (prefers-color-scheme: dark) {
+//TODO: fix @media screen, to not darken print
+@media (prefers-color-scheme: dark) {
   html, body, body * {
     background-color: #181a1b !important;
     border-color: #595959 !important;
