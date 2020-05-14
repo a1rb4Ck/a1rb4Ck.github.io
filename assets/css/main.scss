@@ -6,3 +6,60 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Personnal theme overide */
+
+html {
+  /* Only adjust page content font-size */
+  // .page__content p, .page__content li, .page__content dl {
+  //   font-size: 0.9em !important;  // 1.2em
+  // }
+
+  /* Adjust all font-size */
+  font-size: 1rem;
+  @include breakpoint($medium) {
+    font-size: 1rem;
+  }
+  @include breakpoint($large) {
+    font-size: 1.1rem; // change to whatever
+  }
+  @include breakpoint($x-large) {
+    font-size: 1.2rem; // change to whatever
+  }
+}
+
+// Dark theme
+@media screen, (prefers-color-scheme: dark) {
+  html, body, body * {
+    background-color: #181a1b !important;
+    border-color: #595959 !important;
+    color: #e8e6e3 !important;
+  }
+  html, body, input, textarea, select, button {
+      border-color: #575757!important;
+      color: #e8e6e3!important;
+  }
+  a {
+      color: #3391ff !important;
+  }
+  table {
+      border-color: #4c4c4c!important;
+  }
+  ::placeholder {
+      color: #bab5ab!important;
+  }
+  ::selection {
+      background-color: #005ccc!important;
+      color: #ffffff!important;
+  }
+  ::-moz-selection {
+      background-color: #005ccc!important;
+      color: #ffffff!important;
+  }
+  input:-webkit-autofill,
+  textarea:-webkit-autofill,
+  select:-webkit-autofill {
+      background-color: #545b00 !important;
+      color: #e8e6e3 !important;
+  }
+}

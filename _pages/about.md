@@ -12,9 +12,8 @@ header:
 I am hoping to have time soon to aggregate & synthesis my thoughts and current projects.
 
 ### About me
-I am a PhD student working on optimal machines control, applied to the injection molding process.  
+I am a postdoc researcher working on quality control and optimal machines control using Deep Learning.  
 Objectives are to garanting a perfect final product quality and to reduce the process set-up time.  
-I develop (deep) machine learning methods.  
 I am driven about robotics and realistic motions, thus I prototype various autonomous systems with original motions.  
 
 Some time before I:
