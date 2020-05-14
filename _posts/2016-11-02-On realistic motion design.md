@@ -7,7 +7,7 @@ header:
   teaser: "/assets/img/Fred Nagorny - pantin-clefs - 1991.jpg"
 ---
 
-For twenty years, my father [Fred Nagorny](https://frednagorny.fr/) is a professor in animation cinema and motion design, at [Gobelins, l'école de l'image](https://www.gobelins.fr/). Before, he was a [animator](https://www.youtube.com/channel/UCXQk9hrbllT5By2MwLcuSQA), animation studio director. In the late 80s, he contributed to the [beginning of 3D computer animation](https://histoire3d.siggraph.org/index.php/Frédéric_Nagorny) with the [Character](https://histoire3d.siggraph.org/index.php/Character) module (most of it design principles were integrated in Softimage in 1994).  
+Since twenty years, my father [Fred Nagorny](https://frednagorny.fr/) is a professor in animation cinema and motion design, at [Gobelins, l'école de l'image](https://www.gobelins.fr/). Before, he was a [animator](https://www.youtube.com/channel/UCXQk9hrbllT5By2MwLcuSQA), animation studio director. In the late 80s, he contributed to the [beginning of 3D computer animation](https://histoire3d.siggraph.org/index.php/Frédéric_Nagorny) with the [Character](https://histoire3d.siggraph.org/index.php/Character) module (most of it design principles were integrated in Softimage in 1994).  
 
 I had the chance to grow up in a animation temple. I played a lot with the Eiffel Tower 1:1500 scaled model, from the [Imagina 1991](https://histoire3d.siggraph.org/index.php/Le_Pantin) 3D animation price. Animation movies and cartoons were everywhere, and realistic motion was the grail.
 I spent my childhood comparing the motion quality, and assessing that early Disney's were better.  
