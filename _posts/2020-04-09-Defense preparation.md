@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Missing the plot"
+title: "Defense preparation"
 date: 2020-04-09
 tags: phd
 header:
