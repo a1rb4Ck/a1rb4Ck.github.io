@@ -2,7 +2,7 @@
 layout: single
 title: "EU Presence in VR180"
 date: 2025-07-03
-tags: VR, VR180, Artanim, EU, Horizon Europe, Presence, Hemispherical, Stereoscopic, Immersive
+tags: VR VR180 Artanim EU Horizon Presence hemispherical stereoscopic immersive
 header:
   teaser: "/assets/img/EU Presence VR180.jpg"
 ---
